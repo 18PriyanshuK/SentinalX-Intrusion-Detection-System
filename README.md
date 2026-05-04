@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3.12-00c9b1?style=for-the-badge&logo=python&logoColor=white&labelColor=111318"/>
-<img src="https://img.shields.io/badge/Scapy-Packet%20Capture-f97316?style=for-the-badge&logoColor=white&labelColor=111318"/>
-<img src="https://img.shields.io/badge/Tkinter-GUI-6366f1?style=for-the-badge&logoColor=white&labelColor=111318"/>
-<img src="https://img.shields.io/badge/SQLite-Persistence-00c9b1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=111318"/>
-<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Kali%20Linux-f59e0b?style=for-the-badge&logoColor=white&labelColor=111318"/>
-
-<br/><br/>
-
 ```
 ███████╗███████╗███╗   ██╗████████╗██╗███╗   ██╗███████╗██╗     ██╗  ██╗
 ██╔════╝██╔════╝████╗  ██║╚══██╔══╝██║████╗  ██║██╔════╝██║     ╚██╗██╔╝
@@ -20,8 +12,13 @@
 ### Real-Time Rule-Based Intrusion Detection System
 
 *A lightweight, fully functional host-based IDS built in Python — no machine learning, no external rule files, no enterprise infrastructure required.*
-
 <br/>
+
+<img src="https://img.shields.io/badge/Python-3.12-00c9b1?style=for-the-badge&logo=python&logoColor=white&labelColor=111318"/>
+<img src="https://img.shields.io/badge/Scapy-Packet%20Capture-f97316?style=for-the-badge&logoColor=white&labelColor=111318"/>
+<img src="https://img.shields.io/badge/Tkinter-GUI-6366f1?style=for-the-badge&logoColor=white&labelColor=111318"/>
+<img src="https://img.shields.io/badge/SQLite-Persistence-00c9b1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=111318"/>
+<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Kali%20Linux-f59e0b?style=for-the-badge&logoColor=white&labelColor=111318"/>
 
 </div>
 
