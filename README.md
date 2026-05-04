@@ -384,7 +384,7 @@ Every alert follows this structure:
 
 ## 📄 License
 
-This project is developed for academic purposes as part of the B.Tech final year internship programme at GLS University.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
