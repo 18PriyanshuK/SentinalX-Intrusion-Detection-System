@@ -12,6 +12,7 @@
 ### Real-Time Rule-Based Intrusion Detection System
 
 *A lightweight, fully functional host-based IDS built in Python — no machine learning, no external rule files, no enterprise infrastructure required.*
+
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3.12-00c9b1?style=for-the-badge&logo=python&logoColor=white&labelColor=111318"/>
