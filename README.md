@@ -30,23 +30,23 @@
 ## 📸 Screenshots
 
 ### Main Dashboard
-<img width="1920" height="1028" alt="s1" src="https://github.com/user-attachments/assets/ec24f04c-e60a-4cc2-8813-4732376ed7ad" />
+<img width="600" height="300" alt="s1" src="https://github.com/user-attachments/assets/ec24f04c-e60a-4cc2-8813-4732376ed7ad" />
 *2×2 SOC-style dashboard — Threat Activity graph, Stat Cards, Alert Feed, Severity Breakdown*
 
 ### Alert Feed with Context Menu
-<img width="1258" height="452" alt="s2" src="https://github.com/user-attachments/assets/8dd1accd-08fd-406a-b7c2-29ef418b9307" />
+<img width="600" height="300" alt="s2" src="https://github.com/user-attachments/assets/8dd1accd-08fd-406a-b7c2-29ef418b9307" />
 *Right-click any alert for Investigate, Geo-IP Lookup, Block IP, Whitelist IP, or Acknowledge*
 
 ### Incident Investigation Window
-<img width="900" height="816" alt="s3" src="https://github.com/user-attachments/assets/09e3e565-1590-40cb-a5a8-5b83294cc816" />
+<img width="600" height="500" alt="s3" src="https://github.com/user-attachments/assets/09e3e565-1590-40cb-a5a8-5b83294cc816" />
 *Full forensic details — Alert Details + IP Activity History for every incident*
 
 ### Whitelist Manager
-<img width="498" height="488" alt="S4" src="https://github.com/user-attachments/assets/2802faad-1089-420c-abcf-e53660a3e79b" />
+<img width="500" height="400" alt="S4" src="https://github.com/user-attachments/assets/2802faad-1089-420c-abcf-e53660a3e79b" />
 *Add or remove trusted IPs at runtime without restarting the system*
 
 ### Filter Bar
-<img width="760" height="50" alt="S5" src="https://github.com/user-attachments/assets/0dce03e3-f743-435e-9c77-80dc838aebed" />
+<img width="600" height="30" alt="S5" src="https://github.com/user-attachments/assets/0dce03e3-f743-435e-9c77-80dc838aebed" />
 *Filter alerts by Severity, Attack Type, or Source IP — instantly narrows 500+ alerts*
 
 ### Block IP Dialog
