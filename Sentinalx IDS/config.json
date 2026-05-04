@@ -1,0 +1,48 @@
+{
+  "thresholds": {
+    "port_scan_ports":       5,
+    "port_scan_window":     10,
+    "ping_flood_count":     10,
+    "ping_flood_window":     5,
+    "syn_flood_count":      20,
+    "syn_flood_window":      5,
+    "udp_flood_count":      30,
+    "udp_flood_window":      5,
+    "http_flood_count":     40,
+    "http_flood_window":     5,
+    "dns_flood_count":      15,
+    "dns_flood_window":      5,
+    "arp_check":          true,
+    "arp_warmup_seconds":   30,
+    "arp_confirm_count":     3,
+    "sensitive_port_cooldown": 15
+  },
+  "sensitive_ports": [21, 22, 23, 25, 3306, 3389],
+  "whitelist": {
+    "enabled": false,
+    "ips":     [],
+    "note":    "Set enabled=true and add your machine IP to suppress self-traffic noise"
+  },
+  "deduplication": {
+    "enabled":        true,
+    "window_seconds":  3
+  },
+  "sound": {
+    "enabled": true,
+    "note":    "Terminal bell. CRITICAL=3 beeps, HIGH=2, MEDIUM=1."
+  },
+  "logging": {
+    "enabled":  true,
+    "log_file": "sentinelx.log"
+  },
+  "database": {
+    "enabled": true,
+    "db_file": "sentinelx.db"
+  },
+  "dashboard": {
+    "refresh_ms":           400,
+    "graph_window_seconds":  300,
+    "max_alerts":           500,
+    "max_packets":          500
+  }
+}
