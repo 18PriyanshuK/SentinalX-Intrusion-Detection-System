@@ -397,7 +397,7 @@ git push origin feature/your-feature-name
 ## 📄 License
 
 This project is licensed under the [MIT License](https://github.com/PriyanshuKhambalkar/SentinalX-Intrusion-Detection-System/blob/60b2a31e8d66d7a5f23fc7cdb1c2ac9c6ca8ad61/LICENSE) - see the LICENSE file for details.<br/>
-For commercial use or redistribution, please contact the author.
+For commercial use or redistribution, please get in touch with the author.
 
 ---
 
