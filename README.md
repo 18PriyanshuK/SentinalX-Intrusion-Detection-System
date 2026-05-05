@@ -372,6 +372,13 @@ Every alert follows this structure:
 | NumPy | Graph smoothing |
 | Npcap | Windows packet capture driver |
 
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License]() - see the LICENSE file for details.<br/>
+
 ---
 
 ## 👨‍💻 Author
@@ -380,11 +387,6 @@ Every alert follows this structure:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 <div align="center">
 
