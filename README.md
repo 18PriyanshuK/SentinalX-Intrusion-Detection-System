@@ -372,6 +372,25 @@ Every alert follows this structure:
 | NumPy | Graph smoothing |
 | Npcap | Windows packet capture driver |
 
+---
+
+## 🤝 Contributing
+
+Contributions, bug reports, and feature suggestions are welcome.
+
+```bash
+# Fork the repository
+git fork https://github.com/PriyanshuKhambalkar/SentinalX-Intrusion-Detection-System.git
+
+# Create a feature branch
+git checkout -b feature/your-feature-name
+
+# Commit your changes
+git commit -m "Add: your feature description"
+
+# Push and open a Pull Request
+git push origin feature/your-feature-name
+```
 
 ---
 
