@@ -401,7 +401,7 @@ For commercial use or redistribution, please get in touch with the author.
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 **Priyanshu Khambalkar**
 
